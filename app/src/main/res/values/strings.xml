@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Registeration</string>
+    <string name="RegistrationActivity_unable_to_connect_to_service">Unable to connect to service. Please check network connection and try again.</string>
+</resources>
